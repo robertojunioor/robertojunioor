@@ -1,5 +1,6 @@
 ## Olá! eu me chamo Roberto Junior!
 <p>📍 Brasileiro, 24 anos 👨‍🎓 Ciências da computação (6/8)</p>
+<p>👩‍💻<a href="https://8sys.com.br">8SYS</a> Desenvolvimento de sistemas LTDA</p>
 
 <div align="center">
   <a href="https://github.com/robertojunioor">
