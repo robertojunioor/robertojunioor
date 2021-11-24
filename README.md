@@ -1,4 +1,5 @@
-## Bem-vindo ao meu gitHub!
+## Olá! eu me chamo Roberto Junior!
+<p>📍 Brasileiro, 24 anos 👨‍🎓 Ciências da computação (6/8)</p>
 
 <div align="center">
   <a href="https://github.com/robertojunioor">
