@@ -1,4 +1,11 @@
-<p>📍 Brasileiro, 24 anos; <br>👨‍🎓 Ciências da computação (6/8);<br>👩‍💻<a href="https://8sys.com.br">8SYS</a> Desenvolvimento de sistemas LTDA;</p>
+Hey, I'm Roberto Junior! 👋
+<p>
+I'm graduating in Computer Science at FAM. I'm full stack software development at 8SYS.<br>
+I've been working with ERP development for 4 years using delphi as main language.<br>
+
+📌 Living in Nova Odessa - São Paulo, Brazil<br>
+💼 Currently working with full stack software development at 8SYS<br>
+</p>
 
 <div align="center">
   <a href="https://github.com/robertojunioor">
