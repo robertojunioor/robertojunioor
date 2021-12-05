@@ -10,7 +10,7 @@ I've been working with ERP development for 4 years using delphi as main language
 <div align="center">
   <a href="https://github.com/robertojunioor">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertojunioor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertojunioor&layout=compact&langs_count=7&theme=nightowl"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertojunioor&layout=compact&langs_count=16&theme=nightowl"/>
   </a>
 </div>
 
