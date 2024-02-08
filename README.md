@@ -1,6 +1,6 @@
 Hey, I'm Roberto Junior! 👋
 <p>
-I'm graduating in Computer Science at FAM. I'm full stack software development at 8SYS.<br>
+Bacharel in Computer Science at FAM. I'm full stack software development at 8SYS.<br>
 I've been working with ERP development for 4 years using delphi as main language.<br>
 
 📌 Living in Nova Odessa - São Paulo, Brazil<br>
